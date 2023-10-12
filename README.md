@@ -1,4 +1,4 @@
-#Home Surveillance System on Raspberry Pi 3 B
+# Home Surveillance System on Raspberry Pi 3 B
 This project is a home surveillance system that runs on a Raspberry Pi 3 B. The system uses a camera module to capture video footage and a motion sensor to detect movement. When motion is detected, the system records a video clip and sends an email notification to the user.
 
 Prerequisites
